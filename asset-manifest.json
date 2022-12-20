@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/BEEBS/static/css/main.63c5d506.css",
-    "main.js": "/BEEBS/static/js/main.8dece191.js",
+    "main.js": "/BEEBS/static/js/main.88fa13d5.js",
     "static/js/787.e71a5ca3.chunk.js": "/BEEBS/static/js/787.e71a5ca3.chunk.js",
     "static/media/robot.png": "/BEEBS/static/media/robot.96d6c5862dbde2d1611d.png",
     "index.html": "/BEEBS/index.html",
     "main.63c5d506.css.map": "/BEEBS/static/css/main.63c5d506.css.map",
-    "main.8dece191.js.map": "/BEEBS/static/js/main.8dece191.js.map",
+    "main.88fa13d5.js.map": "/BEEBS/static/js/main.88fa13d5.js.map",
     "787.e71a5ca3.chunk.js.map": "/BEEBS/static/js/787.e71a5ca3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.63c5d506.css",
-    "static/js/main.8dece191.js"
+    "static/js/main.88fa13d5.js"
   ]
 }
