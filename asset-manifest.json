@@ -1,16 +1,14 @@
 {
   "files": {
     "main.css": "/BEEBS/static/css/main.d634c36d.css",
-    "main.js": "/BEEBS/static/js/main.0987d678.js",
-    "static/js/787.e71a5ca3.chunk.js": "/BEEBS/static/js/787.e71a5ca3.chunk.js",
+    "main.js": "/BEEBS/static/js/main.ff8e5f88.js",
     "static/media/robot.png": "/BEEBS/static/media/robot.96d6c5862dbde2d1611d.png",
     "index.html": "/BEEBS/index.html",
     "main.d634c36d.css.map": "/BEEBS/static/css/main.d634c36d.css.map",
-    "main.0987d678.js.map": "/BEEBS/static/js/main.0987d678.js.map",
-    "787.e71a5ca3.chunk.js.map": "/BEEBS/static/js/787.e71a5ca3.chunk.js.map"
+    "main.ff8e5f88.js.map": "/BEEBS/static/js/main.ff8e5f88.js.map"
   },
   "entrypoints": [
     "static/css/main.d634c36d.css",
-    "static/js/main.0987d678.js"
+    "static/js/main.ff8e5f88.js"
   ]
 }
